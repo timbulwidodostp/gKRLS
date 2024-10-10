@@ -1,6 +1,8 @@
 # gKRLS
 Generalized Kernel Regularized Least Squares Use gKRLS With (In) R Software
 
+https://www.youtube.com/watch?v=n6EcdVBfWvY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
